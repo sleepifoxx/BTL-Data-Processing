@@ -1,128 +1,74 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "5TJ2RyrainfXIrUL-pC-p1raKVQ",
+    "etag": "NxKYvaDk0ohOVXDddbACX9PZ92Q",
     "items": [
-      {
-        "kind": "youtube#video",
-        "etag": "xy5S6G7EtHAUiHh7nHgm-FIx4YU",
-        "id": "7kO_ALcwNAw",
-        "snippet": {
-          "publishedAt": "2024-11-06T14:30:06Z",
-          "channelId": "UCe8b9jSSD-bNabF4hkNN5PQ",
-          "title": "HIEUTHUHAI - TRÌNH (prod. by Kewtiie)",
-          "description": "#HIEUTHUHAI #GERDNANG #TRÌNH\nHIEUTHUHAI - TRÌNH (prod. by Kewtiie)\n\nCredit:\n\nWritten by HIEUTHUHAI\nProduced by Kewtiie\nMixing & Mastering: MixedByQuan\n\nDesigned by Son Nguyen (ngungoc)\n\n®GERDNANG\n---------------------\nMỌI NGƯỜI SUBSCRIBE KÊNH CỦA HIEUTHUHAI ĐỂ XEM NGAY CÁC VIDEO MỚI NHẤT.\n► SUBSCRIBE CHANNEL: https://www.youtube.com/@HIEUTHUHAIOFFICIAL ◀\nTheo dõi HIEUTHUHAI:\nFacebook: https://www.facebook.com/HIEUTHUHAIOFFICIAL\nInstagram: https://instagram.com/hieuthuhai\nTikTok: https://www.tiktok.com/@hieuthuhai2222\nSpotify: https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY\nSoundCloud: https://soundcloud.com/hieuthuhai/\u200b\u200b\n---------------------\n© Bản quyền thuộc về HIEUTHUHAI\n© Copyright by HIEUTHUHAI ☞ Do not Reup \n\nHIEUTHUHAI 2024",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/7kO_ALcwNAw/default.jpg",
-              "width": 120,
-              "height": 90
+        {
+            "kind": "youtube#video",
+            "etag": "DnCO5R2oL0X_-A0msPAVSsz3M2U",
+            "id": "pS-fFdvyHLE",
+            "snippet": {
+                "publishedAt": "2024-11-08T17:00:00Z",
+                "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+                "title": "How Much Tape To Stop A Lamborghini?",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pS-fFdvyHLE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pS-fFdvyHLE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pS-fFdvyHLE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pS-fFdvyHLE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pS-fFdvyHLE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MrBeast",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "How Much Tape To Stop A Lamborghini?",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/7kO_ALcwNAw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
+            "contentDetails": {
+                "duration": "PT15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
             },
-            "high": {
-              "url": "https://i.ytimg.com/vi/7kO_ALcwNAw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/7kO_ALcwNAw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/7kO_ALcwNAw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": true,
+                "madeForKids": false
             }
-          },
-          "channelTitle": "HIEUTHUHAI",
-          "tags": [
-            "hieuthuhai",
-            "HIEUTHUHAI",
-            "GERDNANG",
-            "hieuthuhai mv mới",
-            "mv mới hieuthuhai",
-            "hieuthuhai mv",
-            "mv hieuthuhai",
-            "giờ thì ai cười",
-            "mv giờ thì ai cười",
-            "hieu thu2",
-            "trình",
-            "hieuthuhai trình",
-            "trình hieuthuhai",
-            "hieuthuhai rap gang",
-            "hieuthu2 trình",
-            "trình hieuthu2",
-            "hieuthuhai trinh",
-            "trinh hieuthuhai",
-            "trinh",
-            "mv hieuthuhai trình",
-            "mv trình hieuthuhai",
-            "hieuthuhai mv trình",
-            "mv trình",
-            "trình mv",
-            "TRÌNH",
-            "kewtiie",
-            "hieuthuhai kewtiie",
-            "hiếu thứ hai",
-            "hiếu thứ 2 trình",
-            "hieuthuhai gang",
-            "hieuthuhai rap dizz"
-          ],
-          "categoryId": "10",
-          "liveBroadcastContent": "none",
-          "localized": {
-            "title": "HIEUTHUHAI - TRÌNH (prod. by Kewtiie)",
-            "description": "#HIEUTHUHAI #GERDNANG #TRÌNH\nHIEUTHUHAI - TRÌNH (prod. by Kewtiie)\n\nCredit:\n\nWritten by HIEUTHUHAI\nProduced by Kewtiie\nMixing & Mastering: MixedByQuan\n\nDesigned by Son Nguyen (ngungoc)\n\n®GERDNANG\n---------------------\nMỌI NGƯỜI SUBSCRIBE KÊNH CỦA HIEUTHUHAI ĐỂ XEM NGAY CÁC VIDEO MỚI NHẤT.\n► SUBSCRIBE CHANNEL: https://www.youtube.com/@HIEUTHUHAIOFFICIAL ◀\nTheo dõi HIEUTHUHAI:\nFacebook: https://www.facebook.com/HIEUTHUHAIOFFICIAL\nInstagram: https://instagram.com/hieuthuhai\nTikTok: https://www.tiktok.com/@hieuthuhai2222\nSpotify: https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY\nSoundCloud: https://soundcloud.com/hieuthuhai/\u200b\u200b\n---------------------\n© Bản quyền thuộc về HIEUTHUHAI\n© Copyright by HIEUTHUHAI ☞ Do not Reup \n\nHIEUTHUHAI 2024"
-          },
-          "defaultAudioLanguage": "vi"
-        },
-        "contentDetails": {
-          "duration": "PT4M38S",
-          "dimension": "2d",
-          "definition": "hd",
-          "caption": "false",
-          "licensedContent": true,
-          "contentRating": {},
-          "projection": "rectangular"
-        },
-        "status": {
-          "uploadStatus": "processed",
-          "privacyStatus": "public",
-          "license": "youtube",
-          "embeddable": true,
-          "publicStatsViewable": true,
-          "madeForKids": false
-        },
-        "statistics": {
-          "viewCount": "2133644",
-          "likeCount": "180722",
-          "favoriteCount": "0",
-          "commentCount": "22913"
-        },
-        "player": {
-          "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7kO_ALcwNAw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e"
-        },
-        "topicDetails": {
-          "topicCategories": [
-            "https://en.wikipedia.org/wiki/Hip_hop_music",
-            "https://en.wikipedia.org/wiki/Music"
-          ]
-        },
-        "recordingDetails": {},
-        "liveStreamingDetails": {
-          "actualStartTime": "2024-11-06T14:30:06Z",
-          "actualEndTime": "2024-11-06T14:36:58Z",
-          "scheduledStartTime": "2024-11-06T14:30:00Z"
         }
-      }
     ],
     "pageInfo": {
-      "totalResults": 1,
-      "resultsPerPage": 1
+        "totalResults": 1,
+        "resultsPerPage": 1
     }
-  }
-                                                                                                                  
+}
