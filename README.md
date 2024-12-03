@@ -2,6 +2,10 @@
 
 This project analyzes YouTube trending videos data to extract insights and visualize trends.
 
+## Documentation
+
+https://docs.google.com/document/d/1KujHJcI8381W0r-KqD1GsFH3SgMF77iM/edit?usp=sharing&ouid=100271396827143112782&rtpof=true&sd=true
+
 ## Project Structure
 
 - Data:
