@@ -4,7 +4,7 @@ This project analyzes YouTube trending videos data to extract insights and visua
 
 ## Documentation
 
-https://docs.google.com/document/d/1KujHJcI8381W0r-KqD1GsFH3SgMF77iM/edit?usp=sharing&ouid=100271396827143112782&rtpof=true&sd=true
+https://drive.google.com/file/d/1Kx9xbCMAqczbbMRTaKmZUIMTeP_cK29P/view?usp=sharing
 
 ## Project Structure
 
